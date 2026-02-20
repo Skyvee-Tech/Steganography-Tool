@@ -1,4 +1,4 @@
-<h1 align="center">🕵️ InvisibleInk</h1>
+<h1 align="center">🕵️ Steganography-Tool</h1>
 <h3 align="center">// hide secret messages inside plain text files. no one will know.</h3>
 
 <p align="center">

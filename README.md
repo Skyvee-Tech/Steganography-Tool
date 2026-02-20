@@ -52,9 +52,9 @@ Pastikan kedua file ini berada di **folder yang sama**:
 3. Isi form berikut:
 
 ```
-[?] Cover  : Hari ini cuaca cerah sekali.
-[?] Secret : PESAN RAHASIA KAMU
-[?] Output : output.txt
+[?] Isi pesan/text  : Hari ini cuaca cerah sekali.
+[?] Secret Text     : PESAN RAHASIA KAMU
+[?] File Output     : output.txt
 ```
 
 4. File `output.txt` akan dibuat di folder yang sama
@@ -120,9 +120,9 @@ Hari ini cuaca cerah sekali.
   [*] ENCODE - Sembunyiin Pesan
 ================================================================
 
-  [?] Cover  : Hari ini cuaca cerah sekali.
-  [?] Secret : MEET ME AT 9PM
-  [?] Output : pesan.txt
+  [?] Isi pesan/text  : Hari ini cuaca cerah sekali.
+  [?] Secret Text     : Ayo main ke rumah saya
+  [?] File Output     : pesan.txt
 
   [*] Memproses...
 
@@ -141,7 +141,7 @@ Hari ini cuaca cerah sekali.
 
   [+] Pesan ditemukan!
 
-  >> MEET ME AT 9PM
+  >> Ayo main ke rumah saya
 ```
 
 ---
